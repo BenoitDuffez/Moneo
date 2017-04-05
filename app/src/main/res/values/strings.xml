@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moneo</string>
+    <string name="login_activity_label">Moneo log in</string>
+    <string name="login_sign_in">Sign in</string>
+    <string name="login_password">PIN code</string>
+    <string name="login_account_id">Account ID</string>
+    <string name="main_today_title">Today\'s remaining balance</string>
+    <string name="main_money_format">%1$.2f €</string>
+    <string name="main_total_title">Overall remaining balance</string>
+    <string name="main_balance_na">N/A</string>
+</resources>
