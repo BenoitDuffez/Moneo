@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moneo</string>
+    <string name="login_account_id">Identifiant</string>
+    <string name="login_activity_label">Connexion</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_sign_in">Se connecter</string>
+    <string name="main_balance_na">N/A</string>
+    <string name="main_money_format">%1$.2f €</string>
+    <string name="main_today_title">Crédit restant du jour</string>
+    <string name="main_total_title">Crédit restant total</string>
+</resources>
